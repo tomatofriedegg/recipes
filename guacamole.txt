@@ -1,6 +1,12 @@
 Ingredients:
 - Avocados
-- Onions
+- onions
 - Cilantro
 - Salt
 - Lime
+
+Instructions:
+- mash avocados
+- chop cilantro
+- squeeze lemon
+- mix
