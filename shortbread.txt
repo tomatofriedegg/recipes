@@ -3,7 +3,10 @@ Ingredients:
 -sugar
 -flour
 
+<<<<<<< HEAD
 
 Instructions:
 - mix everything
 - bake
+- mix oil and spices
+
